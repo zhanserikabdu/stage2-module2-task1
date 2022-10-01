@@ -35,4 +35,4 @@ An application has a starter page with 2 buttons: "Add User" and "Users". You ne
 
 ## Important note
 
-If you are using Jakarta server (Servlet spec 5.0), it is mandatory that you use Tomcat 10.x, as described [here](https://stackoverflow.com/questions/71598257/jakarta-servlet-with-tomcat-9-not-found-issue), otherwise you can use Java EE and any compatible Tomcat version.
+It is important that you use JavaEE, not JakartaEE and Tomcat 9.x or lower.
